@@ -1,4 +1,4 @@
-package com.salesforce;
+package src.com.salesforce;
 
 public class helloworld {
 
